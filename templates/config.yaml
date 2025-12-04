@@ -9,3 +9,9 @@ default:
     font-mono: FiraCodeRoman-Regular
     font-mono-bold: FiraCodeRoman-Bold
     font-mono-semibold: FiraCodeRoman-SemiBold
+    font-size: 12.0
+    font-size-small: 10.0
+    font-size-h1: 24.0
+    font-size-h2: 18.0
+    font-size-h3: 14.0
+    line-spacing: 1.1
