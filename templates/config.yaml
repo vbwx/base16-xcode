@@ -6,6 +6,6 @@ default:
     font-sans: FiraSans-Regular
     font-sans-bold: FiraSans-Bold
     font-sans-italic: FiraSans-Italic
-    font-mono: FiraCode-Retina
+    font-mono: FiraCodeRoman-Regular
     font-mono-bold: FiraCodeRoman-Bold
     font-mono-semibold: FiraCodeRoman-SemiBold

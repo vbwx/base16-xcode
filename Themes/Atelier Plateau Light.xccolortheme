@@ -5,11 +5,11 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.2941176471 0.5450980392 0.5450980392 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>FiraCode-Retina - 12.0</string>
+	<string>FiraCodeRoman-Regular - 12.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.1607843137 0.1411764706 0.1411764706 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>FiraCode-Retina - 12.0</string>
+	<string>FiraCodeRoman-Regular - 12.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.1607843137 0.1411764706 0.1411764706 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
@@ -17,11 +17,11 @@
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.2941176471 0.5450980392 0.5450980392 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>FiraCode-Retina - 12.0</string>
+	<string>FiraCodeRoman-Regular - 12.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.1607843137 0.1411764706 0.1411764706 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>FiraCode-Retina - 12.0</string>
+	<string>FiraCodeRoman-Regular - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.9568627451 0.9254901961 0.9254901961 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -37,7 +37,7 @@
 	<key>DVTMarkupTextBorderColor</key>
 	<string>0.4941176471 0.4666666667 0.4666666667 1</string>
 	<key>DVTMarkupTextCodeFont</key>
-	<string>FiraCode-Retina - 10.0</string>
+	<string>FiraCodeRoman-Regular - 10.0</string>
 	<key>DVTMarkupTextEmphasisColor</key>
 	<string>0.3450980392 0.3137254902 0.3137254902 1</string>
 	<key>DVTMarkupTextEmphasisFont</key>
@@ -164,69 +164,69 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.character</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
 		<string>FiraSans-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>FiraCodeRoman-Bold - 12.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.keyword</key>
 		<string>FiraCodeRoman-SemiBold - 12.0</string>
 		<key>xcode.syntax.mark</key>
 		<string>FiraCodeRoman-Bold - 12.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.number</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.regex</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.regex.capturename</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.regex.charname</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.regex.number</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.string</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 		<key>xcode.syntax.url</key>
-		<string>FiraCode-Retina - 12.0</string>
+		<string>FiraCodeRoman-Regular - 12.0</string>
 	</dict>
 </dict>
 </plist>
