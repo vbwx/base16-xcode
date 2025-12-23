@@ -1,7 +1,6 @@
 default:
     extension: .xccolortheme
     output: Themes
-    no-prefix: true
     nice-filename: true
     font-sans: FiraSans-Regular
     font-sans-bold: FiraSans-Bold
